@@ -1,0 +1,12 @@
+Instruções:
+
+1 . No Linux, abra o terminal na pasta em que você extraiu os arquivos e execute:
+    make all
+    make run
+2 . Enjoy
+
+
+1 . No Windows, execute pelo terminal:
+    gcc -o main tree.c main.c -I. -lm
+    ./main
+2 . Enjoy
